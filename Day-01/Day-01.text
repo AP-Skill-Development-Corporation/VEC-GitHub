@@ -1,0 +1,30 @@
+Day-01[10-01-2022]:
+===================
+	Good Evening to All...
+
+	Try to rename your names in the below given format ie.,
+		Roll number-Your Name-College code
+		* Please try to rename in this format if not the attendance will not be considered and i am not responsible for not getting your certificates on github program.
+
+	Git -> its based on command line [GUI]
+		-> git commands 
+	Github -> Its a cloud based data storage
+	VCS -> Version Control System
+
+	Local VCS:
+		-> Database
+			-> version-1 -> timestamp -> updated -> database
+		Admin:
+			-> version-1 [task]
+			-> version-2 [task]
+
+	Centralised VCS:
+		-> Server
+		-> clients => work
+	Distributed VCS
+		-> cloud
+		-> clients => work => add/remove
+	
+
+
+
