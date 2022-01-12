@@ -1,0 +1,66 @@
+Day-02[11-01-2022]:
+===================
+	Good Evening to All..
+
+	git download:
+	=============
+		https://git-scm.com
+	
+	git installation:
+	=================
+		- git bash here
+		- git gui here
+
+	git initialisation:
+	===================
+		- git init
+		-> git commands will work based on git init folder
+		-> master branch will be created by default
+
+	Linux Commands:
+	===============
+	-> folder creation:
+		=> mkdir foldername
+	-> single file creation:
+		=> touch filename.extension
+	-> n number of files creation
+		=> touch filename1.extension filename2.extension ....
+
+	git status:
+	===========
+		-> To check whether a file or folder is created or modified
+
+	Folder:
+	=======
+		=> cd foldername
+		cd => change directory
+		=> cd .. 
+		=> To exit from directory
+
+	Staging Area:
+	=============
+	=> Local data
+		=> untracked to track => git add filename.extension
+		=> Staging Area => files => Green
+	=> n number of files or folder
+		=> untracked to track
+		=> git add .
+
+	Delete a file or folder:
+	========================
+	=> single file in local[untracked]
+		-> rm filename.extension
+	=> single file in staging area[tracked]
+		-> git rm --cached filename.extension
+
+	File modification:
+	=================
+	=> nano filename.extension
+		=> cntrl+o
+		=> enter
+		=> cntrl + x
+	=> Display the content of a file
+		=> cat filename.extension
+
+
+
