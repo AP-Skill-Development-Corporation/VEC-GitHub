@@ -1,0 +1,55 @@
+Day-03[12-01-2022]:
+===================
+	Good Evening to All...
+
+	Staging Area:
+	=============
+	untracked file => track
+
+	folder deletion:
+	================
+		-> empty folder
+			=> rmdir foldername
+		-> Fodler exists with some fiel or another folder
+			=> rm -r foldername
+
+	Staging Area[Mediator]:
+	=======================
+		-> folder remove:
+			=> git rm -r --cached foldername
+		-> file remove
+			=> git rm --cached filename.extension
+			=> file will be rollback to local system
+
+	git configuration in local system:
+	==================================
+		> To configure username
+			=> git config user.name "username"
+			> to check username
+			=> git config user.name
+		> To configure user email
+			=> git config user.email "email"
+			> to check useremail
+			=> git config user.email
+
+	Github Account Creation:
+	========================
+		> mail
+		> new tab >github.com
+		> create repository in github with master branch
+		> after creating copy the link of repository
+
+	Git push:
+	=========
+	> First we need to create a remote name in local system to send the folder or files for that particular folder
+	> command for creating remote name
+		=> git remote add remotename urlofgithub
+	> To check the remotename
+		=> git remote
+	> After creating remotename then we need to add the files or folders
+		=> git add .
+		=> Then commit the files with some message
+		=> git commit -m "something message"
+	> Then push the files to a cloud by below commands
+		=> git push originname branchname
+	> Then in your github repository you can observer that all files that are in staging area are pushed to your github repository.	
