@@ -19,9 +19,9 @@ For 3rd and 4th years
   - Github Account creation for cloud access
   - Creating remote and adding url for it in local system
   - Pushing folder and files to cloud by using push command
-  - Recording Link: [Click Here] (https://transcripts.gotomeeting.com/#/s/5b83c090d31170cf453f2f730e50b1d3b85c7ed22416d5d12802ceb5bad59844)
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/5b83c090d31170cf453f2f730e50b1d3b85c7ed22416d5d12802ceb5bad59844)
 
  ## Day-04(17-01-2022):
   - Commit messages check in single line and in reverse order
   - Rollback to latest and older version of commits by using checkout
-  - Recording Link: [Click Here] (https://transcripts.gotomeeting.com/#/s/392b5977bf509b20d7841a245273dbdb4e53150f7bfbc96d5c6f5c2084bd25a8)
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/392b5977bf509b20d7841a245273dbdb4e53150f7bfbc96d5c6f5c2084bd25a8)
