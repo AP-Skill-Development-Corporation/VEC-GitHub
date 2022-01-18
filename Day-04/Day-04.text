@@ -1,0 +1,17 @@
+Day-04[17-01-2022]:
+===================
+	Good Evening to All...
+
+	Local -> Cloud
+
+	Git commit counts:
+	==================
+		> git bash
+			> git log
+			=> User 
+			> git log --oneline
+		> git checkouts
+			> git checkout "sha key of commit"
+		> To rollback for present commit
+			> git checkout "[Present branch name]master" 
+	
