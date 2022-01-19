@@ -25,3 +25,9 @@ For 3rd and 4th years
   - Commit messages check in single line and in reverse order
   - Rollback to latest and older version of commits by using checkout
   - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/392b5977bf509b20d7841a245273dbdb4e53150f7bfbc96d5c6f5c2084bd25a8)
+ 
+ ## Day-05(18-01-2022):
+  - Editing Commit messages and reset the files or folder upto the commit
+  - Displaying the commits and entering into particular commit versions
+  - Creating,deleting,displaying and renaming remotes
+  - Creating and adding files for a branch
