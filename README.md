@@ -31,3 +31,4 @@ For 3rd and 4th years
   - Displaying the commits and entering into particular commit versions
   - Creating,deleting,displaying and renaming remotes
   - Creating and adding files for a branch
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/48702f2ecc9e43ffb96d494bef31468d6b43605fe21f1f48e5d66ecd9846e693)
