@@ -10,7 +10,7 @@ Day-03[12-01-2022]:
 	================
 		-> empty folder
 			=> rmdir foldername
-		-> Fodler exists with some fiel or another folder
+		-> Fodler exists with some file or another folder
 			=> rm -r foldername
 
 	Staging Area[Mediator]:

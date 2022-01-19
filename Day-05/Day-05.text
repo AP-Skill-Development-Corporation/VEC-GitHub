@@ -1,0 +1,48 @@
+Day-05[18-01-2022]:
+===================
+	Good Evening to All...
+
+	commit messages:
+	================
+	To rename for present:
+	----------------------
+	> git commit --amend -m "message"
+	To rename for previous:
+	----------------------
+	> First we need to navigate for that commit by using sha key
+	> git checkout shakey
+	> git commit --amend -m "messagename"
+	> The shakey will changes for the new commit message
+
+	Resetting:
+	==========
+	> git reset HEAD^
+		=> It rollbacks to the lower commit preset commit message will be deleted
+	> git reset HEAD~2
+		=> It deletes 2 number of versions in a local
+	> git reset --hard HEAD^
+		=> Hard states whatever the files or folder that are to be deleted
+	> git reset --hard HEAD~2
+		=> It deletes the files and folders untill the version of 2 commits
+
+
+	Remote name:
+	============
+	> git remote -v
+		=> It displays all remotes in list format with fetch and push
+		=> Fetch defines the cloud to local[Similar to Pull]
+		=> Push defines local to cloud
+	> git remote add remotename "url of github repository same or different repositories"
+	> git remote rename presentremotename newremotename
+	> git remote remove remotename
+		=> deletes the remotename
+
+	Branch:
+	=======
+	> git branch
+		=> Displays all branch names
+	> git branch branchname
+		=> To create new branchname
+	> git push remotename branchname
+		=> To push a file or folder for that particular branch
+	
