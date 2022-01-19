@@ -32,3 +32,9 @@ For 3rd and 4th years
   - Creating,deleting,displaying and renaming remotes
   - Creating and adding files for a branch
   - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/48702f2ecc9e43ffb96d494bef31468d6b43605fe21f1f48e5d66ecd9846e693)
+ 
+ ## Day-06(19-01-2022):
+  - Merging Branches
+  - Deleting a branch in local and in cloud
+  - Markdown format syntaxes
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/22792f5bc598a35aede14c02b53fbcd40ce7d5d1c09dd56ede4c1af785bf0d5d)
