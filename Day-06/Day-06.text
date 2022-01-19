@@ -1,0 +1,22 @@
+Day-06[19-01-2022]:
+===================
+	Good Evening to All...
+
+	Merging Branch:
+	===============
+	> git merge branchname
+		=> It merges the files or folder to a particular branch has exist
+
+	Branch Deletion:
+	================
+	> git branch -d branchname
+		=> It deletes the branch in local
+	> git branch -D branchname
+		=> It deletes while the files or merged
+	> git push remotename --delete branchname
+		=> It deletes the branch in cloud
+
+	Markdown Format:
+	================	
+	> For documentation purpose we need to code it in .md format
+	> Heading,styling text,Quoting text,Quoting Code etc.,
