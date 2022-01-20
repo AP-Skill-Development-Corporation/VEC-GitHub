@@ -38,3 +38,7 @@ For 3rd and 4th years
   - Deleting a branch in local and in cloud
   - Markdown format syntaxes
   - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/22792f5bc598a35aede14c02b53fbcd40ce7d5d1c09dd56ede4c1af785bf0d5d)
+
+ ## Day-07(20-01-2022):
+  - Markdown Format like Links,selective,relative,lists,ordered,unordered,nested,task lists,image and emojis
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/5e37c7d61c43958c78922e3b306951c84cc9f453be818108634ceb1247e80606)
