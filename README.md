@@ -42,3 +42,8 @@ For 3rd and 4th years
  ## Day-07(20-01-2022):
   - Markdown Format like Links,selective,relative,lists,ordered,unordered,nested,task lists,image and emojis
   - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/5e37c7d61c43958c78922e3b306951c84cc9f453be818108634ceb1247e80606)
+ 
+ ## Day-08(21-01-2022):
+  - Pull requests,comments,reviews
+  - Contributors and collaborators
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/34dda347c6e25098f27128a6798ba032e0a87d13d8fbd8614b66bbada596f5b8) 
