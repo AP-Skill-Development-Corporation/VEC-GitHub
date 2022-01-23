@@ -47,3 +47,8 @@ For 3rd and 4th years
   - Pull requests,comments,reviews
   - Contributors and collaborators
   - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/34dda347c6e25098f27128a6798ba032e0a87d13d8fbd8614b66bbada596f5b8) 
+
+## Day-09(22-01-2022):
+  - Github Pages
+  - Sample Project Creation and made github pages for that project
+  - Recording Link: [Click Here](https://transcripts.gotomeeting.com/#/s/ebec481f17d58a53d3260464cee341582c6d668e1523be494d3f55435fb2a515)
